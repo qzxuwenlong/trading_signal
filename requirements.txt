@@ -1,0 +1,18 @@
+# Kronos Trading Signal Generator Requirements
+
+# Core
+flask>=2.3.0
+flask-cors>=4.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# Technical Analysis
+scipy>=1.10.0
+
+# Kronos Model (if using)
+torch>=2.0.0
+transformers>=4.30.0
+
+# Optional
+python-dotenv>=1.0.0
